@@ -1,3 +1,39 @@
+# ![WebApp](https://github.com/Swarupa567/cryptocurrency-tracker/blob/master/Capture.PNG)
+# CryptoCurrency-Price_Tracker
+<table>
+<tr>
+<td>
+   This project built with Javascript and ReactJs Framework and deployed it on Netlify.It can be used to track the cryptocurrencies price by using the Coin API.
+</td>
+</tr>
+</table>
+
+
+## Demo
+Here is a working live demo :  https://gifted-borg-545841.netlify.app/
+
+
+## Site
+
+### Landing Page
+
+![](https://github.com/Swarupa567/cryptocurrency-tracker/blob/master/Capture.PNG)
+
+
+## Built with 
+
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript) - JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. 
+- [ReactJs](https://reactjs.org/) - A JavaScript library for building user interfaces.
+- [Netlify](https://www.netlify.com/) - This is used for website deployment..
+
+## Team
+
+[Swarupa P ](https://github.com/Swarupa567) 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
