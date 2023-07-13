@@ -10,7 +10,6 @@ const Coin = ({
   priceChange,
   marketcap,
 }) => {
-  console.log(price, "price value");
   return (
     <div className="coin-container">
       <div className="coin-row">
