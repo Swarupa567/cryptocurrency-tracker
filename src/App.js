@@ -2,6 +2,8 @@ import "./App.css";
 import axios from "axios";
 import React, { useState, useEffect } from "react";
 import Coin from "./Coin";
+import moon from './assets/moon.png';
+import sun from './assets/sun.png';
 
 function App() {
   const [coins, setCoins] = useState([]);
@@ -28,6 +30,9 @@ function App() {
 
   return (
     <div className="coin-app">
+      <div className="moon cursor-pointer" src={moon} alt=""/>
+      <div className="sun cursor-pointer" src={sun} alt=""/>
+      <div />
       <div className="coin-search">
         <h1 className="coin-text">Search a currency</h1>
         <form>
