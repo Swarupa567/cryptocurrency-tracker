@@ -10,7 +10,7 @@
 
 
 ## Demo
-Here is a working live demo :  https://gifted-borg-545841.netlify.app/
+Here is a working live demo :  https://cryptocurrency-tracker-rho.vercel.app/
 
 
 ## Site
